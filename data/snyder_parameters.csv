@@ -1,0 +1,10 @@
+parameter,symbol,value,unit,note
+Unit hydrograph duration,D',4,h,assumed design duration
+Basin lag,tp,24.0952,h,Ct*(L*Lc)^0.3
+Regional constant,Ct,12.8468,-,calibrated from homogeneous region
+Peaking coefficient,Cp,0.57,-,adopted regional value
+Peak discharge,Qp',0.7366,m3/s,(2.778*A*Cp)/tp'
+Discharge per unit area,qp',0.0657,m3/s/sq.km,Qp'/A
+Base time,T',84.5662,h,5.556/qp'
+Width at 50% peak,W50,40.4989,h,2.14*(qp')^-1.08
+Width at 75% peak,W75,23.0882,h,1.22*(qp')^-1.08

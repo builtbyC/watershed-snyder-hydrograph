@@ -1,0 +1,6 @@
+# Catchment boundary attribute record (Raster to Polygon output, ArcMap 10.3)
+# Watershed: Yeshwanthpura / Laggere / Nandini Layout / Mahalakshmi Puram, Bengaluru, India
+# CRS: GCS WGS 1984 | DEM source: USGS SRTM 1 Arc-Second Global (ID SRTM1N13E077V3)
+
+FID | Shape   | ID  | GRIDCODE | Area_sqkm  | Longest_Stream_L_km | Centroid_Length_Lc_km
+0   | Polygon | 120 | 24       | 11.209491  | 3.82                | 2.13
