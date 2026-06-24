@@ -132,4 +132,4 @@ spatial data conditioning and vector extraction · cross-platform geospatial int
 Code and documentation in this repository are released under the [MIT License](LICENSE).
 The report and figures are the author's academic work, shared for portfolio purposes.
 
-— *Author: &lt;Your Name&gt;*
+— *Author: &lt;Chinmaya Nagarajau et al., &gt;*
